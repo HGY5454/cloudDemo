@@ -2,9 +2,9 @@ package com.example.provider.service;
 
 import com.example.common.entity.Student;
 import com.example.provider.mapper.StudentMapper;
+import jakarta.annotation.Resource;
 import org.springframework.stereotype.Service;
 
-import javax.annotation.Resource;
 import java.math.BigInteger;
 import java.util.List;
 
